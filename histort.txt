@@ -1,0 +1,1000 @@
+  281  npm init
+  282  ls
+  283  code .
+  284  node index.js 
+  285  node
+  286  npm --version
+  287  npm ls
+  288  npm ls -g
+  289  npm install express
+  290  npm install express -g
+  291  npm search express
+  292  npm adduser
+  293  npm publish
+  294  cd workspace/nodejs/
+  295  ls
+  296  mkdir hi
+  297  cd hi/
+  298  ls
+  299  npm init
+  300  code .
+  301  touch .gitignore
+  302  git init
+  303  git add .
+  304  git commit
+  305  git remote add origin https://github.com/AbubakerTagelsir/hi.git
+  306  git push -u origin master
+  307  npm i express mongoose
+  308  npm i -D nodemon
+  309  exit 
+  310  npm i express jsonwebtoken mongoose body-parser bcrypt
+  311  npm run server
+  312  git add .
+  313  git commit 
+  314  git push -u origin master
+  315  exit 
+  316  sudo apt install torbrowser-launcher
+  317  torbrowser-launcher 
+  318  exit 
+  319  ls
+  320  cd scripts/
+  321  ls
+  322  sudo apt-get purge tor torbrowser-launcher 
+  323  sudo apt-get install torbrowser-launcher 
+  324  windscribe
+  325  sudo apt-get update 
+  326  sudo apt-get install windscribe-cli
+  327  sudo apt-get update 
+  328  cd ..
+  329  cd workspace/
+  330  ls
+  331  cd nodejs/
+  332  ls
+  333  cd hi/
+  334  code .
+  335  exit 
+  336  cd
+  337  cd scripts/
+  338  nano remote_instances.sh 
+  339  ssh -i /home/inception/Documents/private-keys-for-instances/Abubaker_Hamriya_Instance.pem ubuntu@ec2-13-232-49-83.ap-south-1.compute.amazonaws.com
+  340  cd ..
+  341  ls
+  342  cd Documents/
+  343  ls
+  344  cd ..
+  345  ls
+  346  git clone https://github.com/AbubakerTagelsir/private-keys-for-instances.git
+  347  cd scripts/
+  348  ls
+  349  gedit remote_instances.sh 
+  350  cd ..
+  351  mv private-keys-for-instances/ Documents/
+  352  ssh -i /home/inception/Documents/private-keys-for-instances/Abubaker_Hamriya_Instance.pem ubuntu@ec2-13-232-49-83.ap-south-1.compute.amazonaws.com
+  353  cd Documents/
+  354  cd private-keys-for-instances/
+  355  sudo chown -R root *
+  356  ssh -i /home/inception/Documents/private-keys-for-instances/Abubaker_Hamriya_Instance.pem ubuntu@ec2-13-232-49-83.ap-south-1.compute.amazonaws.com
+  357  ls
+  358  sudo chown -R root Abubaker_Hamriya_Instance.pem 
+  359  ssh -i /home/inception/Documents/private-keys-for-instances/Abubaker_Hamriya_Instance.pem ubuntu@ec2-13-232-49-83.ap-south-1.compute.amazonaws.com
+  360  ssh -i /home/abubaker/Documents/private-keys-for-instances/Abubaker_Hamriya_Instance.pem ubuntu@ec2-13-232-49-83.ap-south-1.compute.amazonaws.com
+  361  cd
+  362  cd workspace/sgs_modules/
+  363  git add .
+  364  git commit 
+  365  git push -u origin master
+  366  ls
+  367  git add .
+  368  git commit
+  369  git push 
+  370  exit 
+  371  ls
+  372  cd scripts/
+  373  ls
+  374  cd ..
+  375  cd workspace/
+  376  ls
+  377  cd sgs_modules/
+  378  git pull
+  379  code .
+  380  cd ..
+  381  ls
+  382  mkdir sql_procedures
+  383  cd sql_procedures/
+  384  gedit sql_procedures
+  385  ls
+  386  gedit sql_procedures.py
+  387  exit 
+  388  history
+  389  ssh -i /home/abubaker/Documents/private-keys-for-instances/Abubaker_Hamriya_Instance.pem ubuntu@ec2-13-232-49-83.ap-south-1.compute.amazonaws.com
+  390  exit 
+  391  npm i express-handlebars
+  392  npm run server
+  393  exit 
+  394  alsactl restore
+  395  exit 
+  396  cd /usr/share/pulseaudio/alsa-mixer/paths/
+  397  sudo cp analog-output-headphones.conf analog-output-headphones.bak
+  398  sudo nano analog-output-headphones.conf
+  399  sudo cp analog-output-headphones.conf analog-output-headphones.fixed
+  400  sudo reboot 
+  401  gksudo gedit /etc/modprobe.d/alsa-base.conf
+  402  sudo nano /etc/modprobe.d/alsa-base.conf
+  403  sudo reboot 
+  404  cd ../sgs_modules/
+  405  code .
+  406  exit 
+  407  sudo apt-get install pavucontrol
+  408  pavucontrol 
+  409  locate sgs
+  410  locate sgs_modules
+  411  cd workspace/sgs_modules/
+  412  git pull
+  413  cd ..
+  414  ls
+  415  cd nodejs/
+  416  ls
+  417  cd ..
+  418  ls
+  419  mkdir react
+  420  cd react/
+  421  create-react-app imdb
+  422  reboot 
+  423  pavucontrol 
+  424  cd workspace/sgs_modules/
+  425  git pull
+  426  code .
+  427  git add .
+  428  git commit
+  429  git push 
+  430  cd ..
+  431  git clone https://github.com/abubakertagelsir/orooma_dkakeen.git
+  432  code orooma_dkakeen/
+  433  cd ../
+  434  ls
+  435  cd ../
+  436  ls
+  437  cd scripts/
+  438  ls
+  439  cd ..
+  440  ls
+  441  cd scripts/
+  442  ls
+  443  cd ../../
+  444  ls
+  445  cd scripts/
+  446  ls
+  447  git pull
+  448  nano remote_instances.sh 
+  449  ssh -i /home/inception/Documents/private-keys-for-instances/Abubaker_Hamriya_Instance.pem ubuntu@ec2-13-232-49-83.ap-south-1.compute.amazonaws.com
+  450  nano remote_instances.sh 
+  451  ssh -i /home/inception/Documents/private-keys-for-instances/Abubaker_Hamriya_Instance.pem ubuntu@ec2-13-232-49-83.ap-south-1.compute.amazonaws.com
+  452  nano remote_instances.sh 
+  453  ssh -i /home/abubaker/Documents/private-keys-for-instances/Abubaker_Hamriya_Instance.pem ubuntu@ec2-13-232-49-83.ap-south-1.compute.amazonaws.com
+  454  cd ../Documents/
+  455  git clone https://github.com/AbubakerTagelsir/private-keys-for-instances.git
+  456  cd private-keys-for-instances/
+  457  git pull
+  458  sudo chown -R root *
+  459  sudo chown -R root Abubaker_Hamriya_Instance.pem 
+  460  exit 
+  461  cd workspace/react/
+  462  ls
+  463  create-react-app labratory
+  464  npm i -g create-react-app
+  465  sudo npm i -g create-react-app
+  466  nnpm install -g npm
+  467  npm install -g npm
+  468  sudo npm install -g npm
+  469  ls
+  470  create-react-app labratory
+  471  ls
+  472  cd labratory/
+  473  code .
+  474  ls
+  475  npm start
+  476  ls
+  477  cd scripts/
+  478  nano remote_instances.sh 
+  479  ssh -i /home/abubaker/Documents/private-keys-for-instances/Abubaker_Hamriya_Instance.pem ubuntu@ec2-13-232-49-83.ap-south-1.compute.amazonaws.com
+  480  nano remote_instances.sh 
+  481  ssh -i /home/inception/Documents/private-keys-for-instances/InceptionInnovation_Inception_Sites.pem ubuntu@ec2-13-233-252-194.ap-south-1.compute.amazonaws.com
+  482  ssh -i /home/abubaker/Documents/private-keys-for-instances/InceptionInnovation_Inception_Sites.pem ubuntu@ec2-13-233-252-194.ap-south-1.compute.amazonaws.com
+  483  exit 
+  484  cd workspace/sgs_modules/
+  485  code .
+  486  git pull
+  487  exit 
+  488  cd Desktop/
+  489  nano oldHome.xml
+  490  nano oldHome.xml 
+  491  cd scripts/
+  492  nano remote_instances.sh 
+  493  ssh -i /home/inception/Documents/private-keys-for-instances/SocialGolfSocietyInstance.pem ubuntu@52.66.250.139
+  494  ls
+  495  cd ..
+  496  ls
+  497  cd workspace/
+  498  ls
+  499  cd ../Documents/
+  500  ls
+  501  cd private-keys-for-instances/
+  502  ssh -i SocialGolfSocietyInstance.pem ubuntu@52.66.250.139
+  503  exit 
+  504  ssh -i SocialGolfSocietyInstance.pem ubuntu@52.66.250.139
+  505  cd Documents/private-keys-for-instances/
+  506  ssh -i SocialGolfSocietyInstance.pem ubuntu@52.66.250.139
+  507  poweroff 
+  508  lsusb
+  509  reboot 
+  510  sudo reboot 
+  511  cd Downloads/
+  512  ssh -i inception-walayem-final.pem ubuntu@172.31.24.61
+  513  chmod 400 inception-walayem-final.pem 
+  514  ssh -i inception-walayem-final.pem ubuntu@172.31.24.61
+  515  ssh -i "inception-walayem-final.pem" root@ec2-13-251-182-234.ap-southeast-1.compute.amazonaws.com
+  516  ssh -i "inception-walayem-final.pem" ubuntu@ec2-13-251-182-234.ap-southeast-1.compute.amazonaws.com
+  517  sudo chown -R root inception-walayem-final.pem 
+  518  ssh -i "inception-walayem-final.pem" ubuntu@ec2-13-251-182-234.ap-southeast-1.compute.amazonaws.com
+  519  ssh -i "inception-walayem-final.pem" ubuntu@172.31.24.61
+  520  ssh -i "inception-walayem-final.pem" ubuntu@13.251.182.234
+  521  sudo service mysql stop
+  522  sudo service mysql status
+  523  sudo service mysql start
+  524  sudo service mysql status
+  525  sudo service mysql start
+  526  sudo systemctl start mysql
+  527  sudo systemctl status mysql
+  528  sudo systemctl restart mysql
+  529  journalctl -xe
+  530  sudo apt-get install phpmyadmin
+  531  exit 
+  532  cd Downloads/
+  533  ls
+  534  ls | grep xamp
+  535  chmod 755 xampp-linux-x64-7.3.11-0-installer.run 
+  536  ls -l xamp
+  537  ls -l xampp-linux-x64-7.3.11-0-installer.run
+  538  sudo ./xampp-linux-x64-7.3.11-0-installer.run 
+  539  sudo apt install php libapache2-mod-php
+  540  sudo systemctl restart apache2
+  541  sudo apt install php-fpm
+  542  systemctl status php7.2-fpm
+  543  sudo systemctl restart nginx
+  544  sudo apt install php-mysql php-gd
+  545  sudo apt install software-properties-common
+  546  sudo add-apt-repository ppa:ondrej/php
+  547  sudo apt install php7.3 php7.3-common php7.3-opcache php7.3-cli php7.3-gd php7.3-curl php7.3-mysql
+  548  php -v
+  549  sudo ./xampp-linux-x64-7.3.11-0-installer.run 
+  550  sudo /opt/lampp/lampp start
+  551  sudo apt install nettools
+  552  sudo apt install net-tools
+  553  sudo /opt/lampp/lampp start
+  554  sudo apt-get update 
+  555  sudo apt-get install mysql-server mysql-client libmysqlclient-dev
+  556  sudo apt-get install apache2 apache2-doc apache2-npm-prefork apache2-utils libexpat1 ssl-cert
+  557  sudo apt-get install apache2 apache2-doc  apache2-utils libexpat1 ssl-cert
+  558  sudo apt-get install phpmyadmin
+  559  sudo /opt/lampp/lampp start
+  560  ls
+  561  sudo reboot 
+  562  sudo apt update 
+  563  sudo apt install -y git curl wget zip unzip
+  564  sudo apt install apache2
+  565  sudo systemctl status apache2
+  566  sudo ufw allow in "Apache Full"
+  567  sudo a2enmod rewrite
+  568  sudo systemctl restart apache2
+  569  sudo apt install mysql-server
+  570  sudo mysql_secure_installation
+  571  sudo mysql -u root -p
+  572  sudo apt install php libapache2-mod-php php-mysql
+  573  sudo apt install php7.2-common php7.2-cli php7.2-gd php7.2-mysql php7.2-curl php7.2-intl php7.2-mbstring php7.2-bcmath php7.2-imap php7.2-xml php7.2-zip
+  574  sudo nano /etc/apache2/mods-enabled/dir.conf
+  575  sudo systemctl restart apache2
+  576  sudo nano /var/www/html/info.php
+  577  curl -sS https://getcomposer.org/installer | php
+  578  sudo mv composer.phar /usr/local/bin/composer
+  579  sudo chmod +x /usr/local/bin/composer
+  580  composer --version
+  581  cd ~
+  582  composer create-project --prefer-dist laravel/laravel my_linux_app
+  583  cd my_linux_app/
+  584  php artisan serve
+  585  ls
+  586  cd ..
+  587  composer create-project --prefer-dist laravel/laravel my-project
+  588  composer require tymon/jwt-auth
+  589  cd my-project/
+  590  composer require tymon/jwt-auth
+  591  cd ..
+  592  ls
+  593  sudo rm -rf composer.json composer.lock 
+  594  ls
+  595  cd vendor/
+  596  ls
+  597  cd ..
+  598  sudo rm -rf vendor/
+  599  ls
+  600  cd my-project/
+  601  composer require tymon/jwt-auth
+  602  cd ..
+  603  sudo rm -rf my-project/
+  604  ls
+  605  cd workspace/
+  606  ls
+  607  mkdir laravel_projects
+  608  cd laravel_projects/
+  609  composer create-project --prefer-dist laravel/laravel my-project
+  610  cd my-project/
+  611  composer require tymon/jwt-auth
+  612  nano composer.json 
+  613  composer update
+  614  nano composer.json 
+  615  composer update
+  616  nano composer.json 
+  617  composer update
+  618  nano composer.json 
+  619  composer update
+  620  ls
+  621  cd config/
+  622  ls
+  623  nano app.php 
+  624  cd ..
+  625  php artisan vendor:publish
+  626  cd config/
+  627  nano app.php 
+  628  cd ..
+  629  php artisan vendor:publish
+  630  cd config/
+  631  nano jwt.php 
+  632  cd ..
+  633  php artisan jwt:generate
+  634  php artisan jwt:secret
+  635  cd workspace/
+  636  cd laravel_projects/
+  637  ls
+  638  cd my-project/
+  639  ls
+  640  cd app/
+  641  ls
+  642  cd ..
+  643  cd config/
+  644  ls
+  645  nano jwtMiddleware.php
+  646  mv jwtMiddleware.php ../app/Http/Middleware/
+  647  ls
+  648  cd ..
+  649  code .
+  650  ls
+  651  cd ..
+  652  npx create-react-app my-project-react
+  653  cd my-project-react/
+  654  npm start
+  655  npm install react-router-dom && npm install jquery && npm install axios
+  656  code .
+  657  cd ..
+  658  mkdir laravelCourse
+  659  cd laravelC
+  660  cd laravelCourse/
+  661  ls
+  662  code .
+  663  php -f Book.php 
+  664  /home/abubaker/workspace/laravelCourse/Book.php
+  665  cd
+  666  sudo apt update
+  667  sudo apt install mysql-workbench
+  668  sudo service mysql start
+  669  sudo service mysql status
+  670  /opt/lampp/lampp start
+  671  sudo /opt/lampp/lampp start
+  672  cd workspace/
+  673  ls
+  674  cd laravelCourse/
+  675  code .
+  676  cd ..
+  677  mkdir mazrui_task
+  678  cd mazrui_task/
+  679  touch .gitignore
+  680  git init
+  681  git add .
+  682  git commit
+  683  laravel new test_laravel
+  684  cd ..
+  685  cd laravel_projects/
+  686  ls
+  687  composer create-project --prefer-dist laravel/laravel test_project
+  688  cd test_project/
+  689  code .
+  690  php artisan list
+  691  php server.php 
+  692  php artisan serve
+  693  php artisan make:auth
+  694  php artisan 
+  695  composer require laravel/ui
+  696  php artisan ui vue --auth
+  697  php artisan migrate
+  698  php artisan migrate -v
+  699  php artisan migrate 
+  700  php artisan config:clear
+  701  php artisan cache:clear
+  702  php artisan migrate 
+  703  mysql
+  704  mysql -u root -p\
+  705  mysql -u root -p
+  706  sudo mysql -u root -p
+  707  php artisan migrate 
+  708  php artisan serve
+  709  php artisan make:model
+  710  php artisan make:model Post
+  711  php artisan migrate
+  712  php artisan make:model Post -m
+  713  php artisan make:model -m
+  714  php artisan make:model -migration
+  715  php artisan make:model Setting -m
+  716  php artisan migrate
+  717  mysql
+  718  sudo mysql
+  719  mysql -u root -p
+  720  sudo mysql -u root -p
+  721  cd workspace/laravelCourse/Domain/
+  722  ls
+  723  cd ../../laravel_projects/
+  724  ls
+  725  cd test_project/
+  726  php artisan make:model Blog -m
+  727  code .
+  728  php artisan migrate
+  729  php artisan tinker
+  730  php artisan make:controller BlogsController
+  731  php artisan serve
+  732  cd ..
+  733  git add ,
+  734  git add .
+  735  git commit
+  736  cd workspace/
+  737  cd mazrui_task/
+  738  ls
+  739  composer create-project --prefer-dist laravel/laravel mini-social-network
+  740  ls
+  741  cd 
+  742  cd workspace/mazrui_task/mini-social-network/
+  743  ls
+  744  cd ..
+  745  git add .
+  746  git commit 
+  747  code .
+  748  cd mini-social-network/
+  749  php artisan make:model Post -m 
+  750  php artisan make:model Comment -m 
+  751  exit 
+  752  sudo snap install postman
+  753  exit 
+  754  cd ../mazrui_task/mini-social-network/
+  755  php artisan migrate
+  756  mysql -u abubaker -p
+  757  php artisan migrate
+  758  php artisan twinker
+  759  php artisan make:auth
+  760  composerc require laravel/ui
+  761  composer require laravel/ui
+  762  php artisan ui vue --auth
+  763  php artisan migrate
+  764  php artisan make:auth
+  765  php artisan ui vue --auth
+  766  php artisan migrate
+  767  php artisan
+  768  php artisan make:auth
+  769  php artisan ui react
+  770  php artisan ui react --auth
+  771  php artisan ui:auth
+  772  php artisan ui:auth --views
+  773  ls
+  774  php artisan serve
+  775  php artisan migrate
+  776  php artisan make:controller PostsController
+  777  ls
+  778  cd routes/
+  779  ls
+  780  cd ..
+  781  git add .
+  782  php artisan serve
+  783  git artisan make:migration add_user_id_column_to_posts_table --table=posts
+  784  php artisan make:migration add_user_id_column_to_posts_table --table=posts
+  785  php artisan make:migration add_post_id_column_to_comments_table --table=comments
+  786  php artisan make:migration add_user_id_column_to_comments_table --table=comments
+  787  php artisan migrate
+  788  php artisan routes:list
+  789  php artisan route:list
+  790  php artisan make:controller CommentsController --resource
+  791  code .
+  792  php artisan serve
+  793  php artisan migrate
+  794  php artisan route:list
+  795  php artisan serve
+  796  php artisan route:list
+  797  php artisan serve
+  798  composer require laravel/passport
+  799  cd workspace/mazrui_task/
+  800  code .
+  801  cd ..
+  802  ls
+  803  cd laravel_projects/
+  804  git clone https://github.com/kaloraat/larablog.git
+  805  code larablog/
+  806  cd ../mazrui_task/
+  807  git add .
+  808  git commit
+  809  git add .
+  810  git commit
+  811  git addv .
+  812  git add .
+  813  git commit 
+  814  git add .
+  815  git commit
+  816  git add .
+  817  git commit
+  818  git add .
+  819  git commit
+  820  git add .
+  821  git commit
+  822  git add .
+  823  git commit
+  824  cd ..
+  825  git add .
+  826  git commit 
+  827  git add .
+  828  git commit
+  829  git add .
+  830  git commit
+  831  code .
+  832  git add .
+  833  git commit
+  834  npx create-react-app react-mini-social-network
+  835  ls
+  836  cd react-mini-social-network/
+  837  ls
+  838  cd ..
+  839  code .
+  840  cd react-mini-social-network/
+  841  npm start
+  842  npm install react-router-dom && npm install jquery && npm install axios
+  843  npm start
+  844  npm install
+  845  npm start
+  846  echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+  847  npm start
+  848  npm install --save redux react-redux react-router-dom
+  849  npm start
+  850  npm i materialize-css
+  851  npm start
+  852  mysql -u abubaker -p
+  853  code .
+  854  exit 
+  855  ls
+  856  cd workspace/
+  857  ls
+  858  cd mazrui_task/
+  859  ls
+  860  cd react-mini-social-network/
+  861  npm start
+  862  npm i axios redux-thunk
+  863  code .
+  864  npm start
+  865  npm i jwt-decode 
+  866  npm start
+  867  nano /home/abubaker/.npm/_logs/2019-12-02T13_10_01_177Z-debug.log
+  868  npm start
+  869  npm run server
+  870  npm start
+  871  npm i jwt-decode 
+  872  npm start
+  873  npm install
+  874  npm start
+  875  ls
+  876  nano package.json 
+  877  npm run server
+  878  npm i -D nodemon
+  879  npm audit fix
+  880  npm start
+  881  sudo reboot 
+  882  cd ../mini-social-network/
+  883  ls
+  884  php artisan serve
+  885  code .
+  886  php artisan route:list
+  887  php artisan serve
+  888  composer require laravel/passport
+  889  php artisan migrate
+  890  php artisan passport:install
+  891  php artisan serve
+  892  php artisan route:list
+  893  php artisan serve
+  894  code .
+  895  php artisan serve
+  896  php artisan make:middleware Cors
+  897  php artisan serve
+  898  php artisan make:seeder PostSeeder
+  899  php artisan db:seed
+  900  php artisan serve
+  901  cd ..
+  902  git add .
+  903  git commit
+  904  git remote add origin https://github.com/AbubakerTagelsir/mazrui_task.git
+  905  git push -u origin master
+  906  add .
+  907  git add .
+  908  git commit
+  909  code .
+  910  code react-mini-social-network/
+  911  cd react-mini-social-network/
+  912  npm i react-bootstrap
+  913  npm i bloomer
+  914  npm i react-spring
+  915  cd ..
+  916  git add .
+  917  git commit
+  918  cd react-mini-social-network/
+  919  npm i redux-form
+  920  git add .
+  921  cd ..
+  922  git add .
+  923  git commit
+  924  git add .
+  925  git commit
+  926  git push -u origin master
+  927  ls
+  928  git show
+  929  code .
+  930  "Mazrui International 2nd technical task" -> README.md
+  931  "Mazrui International 2nd technical task" > README.md
+  932  echo "Mazrui International 2nd technical task" > README.md
+  933  nano README.md 
+  934  git add .
+  935  git commit
+  936  git push 
+  937  git add .
+  938  git commit
+  939  git push 
+  940  docker-machine start default
+  941  sudo snap install docker
+  942  docker-machine start default
+  943  touch Dockerfile
+  944  nano Dockerfile 
+  945  mv Dockerfile mini-social-network/
+  946  cd mini-social-network/
+  947  ls
+  948  git add .
+  949  git commit
+  950  git push 
+  951  cd ..
+  952  ls
+  953  cd mini-social-network/
+  954  nano Dockerfile 
+  955  cd ..
+  956  git add .
+  957  git commit
+  958  'git push 
+  959  git push 
+  960  git add .
+  961  git commit
+  962  git push -u origin master
+  963  exit 
+  964  cd ..
+  965  git add .
+  966  git commit
+  967  git push 
+  968  git add .
+  969  git commit
+  970  git push -u origin master
+  971  ls
+  972  git show
+  973  cd workspace/
+  974  ls
+  975  cd mazrui_task/
+  976  cd react-mini-social-network/
+  977  npm start
+  978  code .
+  979  npm start
+  980  cd ../mini-social-network/
+  981  php artisan serve
+  982  sudo reboot 
+  983  reboot 
+  984  cd
+  985  sudo scp -i Downloads/inception-walayem-final.pem ubuntu@app.walayem.com:/var/lib/postgresql/WALAYEM_13_DEC.bak .
+  986  mv WALAYEM_13_DEC.bak workspace/walayem/backup/
+  987  ls
+  988  cd workspace/walayem/backup/
+  989  ls
+  990  exit 
+  991  cd
+  992  cd Downloads/
+  993  ssh -i inception-walayem-final.pem ubuntu@app.walayem.com
+  994  sudo chown -R root inception-walayem-final.pem 
+  995  ssh -i inception-walayem-final.pem ubuntu@app.walayem.com
+  996  sudo ssh -i inception-walayem-final.pem ubuntu@app.walayem.com
+  997  cd
+  998  cd /etc/systemd/system/
+  999  cp odoo11.service walayem.service
+ 1000  sudo  cp odoo11.service walayem.service
+ 1001  nano walayem.service 
+ 1002  sudo nano walayem.service 
+ 1003  ls
+ 1004  cd custom/
+ 1005  ls
+ 1006  cd ../inception_modules/
+ 1007  ls
+ 1008  cd ..
+ 1009  ls
+ 1010  cd odoo/
+ 1011  ls
+ 1012  cd ..
+ 1013  ls
+ 1014  git pull
+ 1015  ls
+ 1016  nano odoo-server.conf 
+ 1017  pwd
+ 1018  nano odoo-server.conf 
+ 1019  ls
+ 1020  nano odoo-server.conf 
+ 1021  sudo systemctl restart walayem
+ 1022  sudo journalctl -u walayem -f
+ 1023  pip3 install phonenumbers
+ 1024  sudo pip3 install phonenumbers
+ 1025  sudo pip install phonenumbers
+ 1026  ls
+ 1027  code .
+ 1028  pip3 install oauthlib
+ 1029  sudo systemctl restart walayem
+ 1030  sudo journalctl -u walayem -f
+ 1031  nano odoo-server.conf 
+ 1032  cd 
+ 1033  cd /opt/odoo/
+ 1034  source odoo11-venv/bin/activate
+ 1035  pip3 install oauthlib
+ 1036  sudo pip3 install oauthlib
+ 1037  sudo su odoo 
+ 1038  sudo systemctl restart walayem
+ 1039  sudo apt-get update & sudo apt-get upgrade 
+ 1040  sudo apt install git python3-pip build-essential wget python3-dev python3-venv python3-wheel libxslt-dev libzip-dev libldap2-dev libsasl2-dev python3-setuptools node-less
+ 1041  sudo useradd -m -d /opt/odoo -U -r -s /bin/bash odoo
+ 1042  sudo apt install postgresql
+ 1043  sudo su - postgres -c "createuser -s odoo"
+ 1044  wget https://builds.wkhtmltopdf.org/0.12.1.3/wkhtmltox_0.12.1.3-1~bionic_amd64.deb
+ 1045  sudo apt install ./wkhtmltox_0.12.1.3-1~bionic_amd64.deb
+ 1046  sudo su - odoo
+ 1047  sudo mkdir /opt/odoo/odoo11-custom-addons
+ 1048  sudo chown odoo: /opt/odoo/odoo11-custom-addons
+ 1049  sudo cp /opt/odoo/odoo11/debian/odoo.conf /etc/odoo11.conf
+ 1050  nano /etc/odoo11.conf 
+ 1051  sudo nano /etc/odoo11.conf 
+ 1052  sudo nano /etc/systemd/system/odoo11.service
+ 1053  sudo systemctl daemon-reload
+ 1054  sudo systemctl start odoo11
+ 1055  cd workspace/
+ 1056  ls
+ 1057  mkdir walayem
+ 1058  cd walayem/
+ 1059  mkdir backup
+ 1060  cd backup/
+ 1061  git clone https://github.com/yaziderman/walayem.git
+ 1062  cd ..
+ 1063  cp backup/* .
+ 1064  cp -r backup/* .
+ 1065  ls
+ 1066  cd walayem/
+ 1067  ls
+ 1068  cd odoo/
+ 1069  pwd
+ 1070  ls
+ 1071  cd ..
+ 1072  ls
+ 1073  nano odoo-server.conf 
+ 1074  ls
+ 1075  pwd
+ 1076  nano odoo-server.conf 
+ 1077  sudo systemctl daemon-reload 
+ 1078  sudo systemctl start walayem
+ 1079  sudo systemctl status walayem
+ 1080  sudo journalctl walayem -f
+ 1081  sudo journalctl -u walayem -f
+ 1082  ls
+ 1083  nano odoo-server.conf 
+ 1084  sudo systemctl restart walayem
+ 1085  sudo journalctl -u walayem -f
+ 1086  nano odoo-server.conf 
+ 1087  sudo journalctl -u walayem -f
+ 1088  sudo apt update
+ 1089  sudo apt install openjdk-8-jdk
+ 1090  java -version
+ 1091  sudo snap install android-studio --classic
+ 1092  sudo systemctl restart walayem
+ 1093  sudo systemctl strat walayem
+ 1094  sudo systemctl start walayem
+ 1095  code workspace/walayem/walayem/
+ 1096  cd
+ 1097  sudo apt update 
+ 1098  sudo apt install git python3-pip build-essential wget python3-dev python3-venv python3-wheel libxslt-dev libzip-dev libldap2-dev libsasl2-dev python3-setuptools node-less
+ 1099  sudo useradd -m -d /opt/odoo13 -U -r -s /bin/bash odoo13
+ 1100  sudo su - postgres -c "createuser -s odoo13"
+ 1101  sudo su - odoo13
+ 1102  sudo nano /etc/odoo13.conf
+ 1103  sudo nano /etc/systemd/system/odoo13.service
+ 1104  sudo systemctl daemon-reload
+ 1105  exit 
+ 1106  sudo systemctl start walayem
+ 1107  cd workspace/walayem/walayem/
+ 1108  ls
+ 1109  nano odoo-server.conf 
+ 1110  exit 
+ 1111  wget https://download.anydesk.com/linux/anydesk_2.9.6-1_amd64.deb 
+ 1112  wget https://download.anydesk.com/linux/anydesk_5.1.0-1_amd64.deb  
+ 1113  cd workspace/
+ 1114  ls
+ 1115  cd android-projects/
+ 1116  git clone https://github.com/yaziderman/walayem-android
+ 1117  ls
+ 1118  cp -r walayem-android/ ../walayem/backup/
+ 1119  ls
+ 1120  cd ../walayem/
+ 1121  ls
+ 1122  cd backup/
+ 1123  ls
+ 1124  cd walayem
+ 1125  ls
+ 1126  cd ../walayem-android/
+ 1127  exit 
+ 1128  cd StudioProjects/
+ 1129  cd walayem-android/
+ 1130  git add .
+ 1131  git commit
+ 1132  ks
+ 1133  ls
+ 1134  cd StudioProjects/
+ 1135  cd walayem-android/
+ 1136  ls
+ 1137  git add .
+ 1138  git commit
+ 1139  git push 
+ 1140  ls
+ 1141  cd
+ 1142  sudo apt install virtualbox
+ 1143  sudo apt install vagrant
+ 1144  cd workspace/
+ 1145  ls
+ 1146  mkdir profiles-rest-api
+ 1147  cd profiles-rest-api/
+ 1148  git init
+ 1149  touch .gitignore
+ 1150  ls
+ 1151  vagrant init
+ 1152  ls
+ 1153  nano README.md
+ 1154  nano .gitignore 
+ 1155  code .
+ 1156  vagrant up
+ 1157  VBoxManage --version
+ 1158  vagrant up
+ 1159  sudo apt-get install virtualbox-dkms 
+ 1160  vagrant up
+ 1161  wget -q https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
+ 1162  wget -q https://www.virtualbox.org/download/oracle_vbox.asc -O- | sudo apt-key add -
+ 1163  sudo add-apt-repository "deb [arch=amd64] http://download.virtualbox.org/virtualbox/debian $(lsb_release -cs) contrib"
+ 1164  sudo apt update 
+ 1165  sudo apt install virtualbox-6.0
+ 1166  vagrant up
+ 1167  uname -r
+ 1168  sudo pacman -S 5.0.0-37-generic-virtualbox-host-modules
+ 1169  sudo apt install pacman
+ 1170  sudo pacman -S 5.0.0-37-generic-virtualbox-host-modules
+ 1171  sudo reboot 
+ 1172  cd workspace/profiles-rest-api/
+ 1173  vagrant up
+ 1174  sudo /sbin/vboxconfig 
+ 1175  sudo apt install mokutil
+ 1176  sudo mokutil --disable-validation
+ 1177  sudo /sbin/vboxconfig 
+ 1178  vagrant up
+ 1179  openssl req -new -x509 -newkey rsa:2048 -keyout MOK.priv -outform DER -out MOK.der -nodes -days 36500 -subj "/CN=Descriptive common name/"
+ 1180  sudo /usr/src/linux-headers-$(uname -r)/scripts/sign-file sha256 ./MOK.priv ./MOK.der $(modinfo -n vboxdrv)
+ 1181  tail $(modinfo -n vboxdrv) | grep "Module signature appended"
+ 1182  sudo mokutil --import MOK.der
+ 1183  mokutil --test-key MOK.der
+ 1184  sudo reboot 
+ 1185  Systemtap Compile Server Status for 'online,trusted,compatible'
+ 1186  stap --list-servers
+ 1187  sudo apt install systemtap
+ 1188  stap --list-servers
+ 1189  stap --list-servers=all
+ 1190  mokutil --import signing_key.x509
+ 1191  mokutil --test-key MOK.der
+ 1192  sudo /sbin/vboxconfig 
+ 1193  sudo reboot
+ 1194  ls
+ 1195  cd workspace/profiles-rest-api/
+ 1196  code .
+ 1197  ls
+ 1198  cd ../python-envs/
+ 1199  virtualenv django-profiles
+ 1200  conda env -list
+ 1201  sudo apt install virtualenv
+ 1202  virtualenv django-profiles
+ 1203  virtualenv django-profile python3
+ 1204  python3 -m venv profiles
+ 1205  ls
+ 1206  source profiles/bin/activate
+ 1207  cd ../profiles-rest-api/
+ 1208  ls
+ 1209  cd ../
+ 1210  python -m django --version
+ 1211  pip3 install django
+ 1212  python -m django --version
+ 1213  cd profiles-rest-api/
+ 1214  ls
+ 1215  django-admin startproject mysite
+ 1216  ls
+ 1217  cd mysite/
+ 1218  ls
+ 1219  ./manage.py runserver
+ 1220  ./manage.py startapp polls
+ 1221  ls
+ 1222  code .
+ 1223  ./manage.py runserver
+ 1224  reboot 
+ 1225  ls
+ 1226  cd StudioProjects/walayem-android/
+ 1227  ls
+ 1228  git branch -a
+ 1229  git branch x-dev
+ 1230  git branch -a
+ 1231  git checkout x-dev 
+ 1232  git branch -a
+ 1233  cd
+ 1234  cd workspace/profiles-rest-api/
+ 1235  code .
+ 1236  cd mysite/
+ 1237  source ../../python-envs/profiles/bin/activate
+ 1238  ./manage.py migrate
+ 1239  ./manage.py makemigrations polls
+ 1240  ./manage.py sqlmigrate polls 0001
+ 1241  ./manage.py migrate
+ 1242  ./manage.py createsuperuser
+ 1243  ./manage.py runserver
+ 1244  cd workspace/profiles-rest-api/
+ 1245  ls
+ 1246  cd mysite/
+ 1247  ls
+ 1248  code .
+ 1249  source ../../python-envs/profiles/bin/activate
+ 1250  ./manage.py runserver
+ 1251  code workspace/profiles-rest-api/mysite/
+ 1252  exit 
+ 1253  ./manage.py shell
+ 1254  source ../../python-envs/profiles/bin/activate
+ 1255  ./manage.py shell
+ 1256  ./manage.py test polls
+ 1257  ./manage.py shell
+ 1258  ./manage.py test polls
+ 1259  ./manage.py runserver
+ 1260  cd ../odoo-venv/
+ 1261  ls
+ 1262  locate pypdf2 
+ 1263  cd /
+ 1264  locate pypdf2 
+ 1265  sudo locate pypdf2 
+ 1266  exit 
+ 1267  source ../../python-envs/profiles/bin/activate
+ 1268  ./manage.py runserver
+ 1269  sudo nano /etc/odoo13.conf 
+ 1270  locate pg_hba
+ 1271  sudo nano /etc/postgresql/10/main/pg_hba.conf
+ 1272  cd ../odoo-custom-addons/
+ 1273  cd library/
+ 1274  git init
+ 1275  git add .
+ 1276  git commit -m "initial commit"
+ 1277  git remote add origin https://github.com/AbubakerTagelsir/library.git
+ 1278  git push -u origin master
+ 1279  history -> histort.txt
+ 1280  history > histort.txt
